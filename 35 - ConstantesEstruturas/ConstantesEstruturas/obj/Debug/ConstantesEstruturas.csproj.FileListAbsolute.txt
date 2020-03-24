@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.Form1.resources
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\bin\Debug\ConstantesEstruturas.exe.config
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\bin\Debug\ConstantesEstruturas.exe
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\bin\Debug\ConstantesEstruturas.pdb
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.exe
+C:\Users\Eduardo\source\repos\ConstantesEstruturas\ConstantesEstruturas\obj\Debug\ConstantesEstruturas.pdb

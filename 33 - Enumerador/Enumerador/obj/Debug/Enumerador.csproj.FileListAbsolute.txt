@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\bin\Debug\Enumerador.exe.config
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\bin\Debug\Enumerador.exe
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\bin\Debug\Enumerador.pdb
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\obj\Debug\Enumerador.Form1.resources
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\obj\Debug\Enumerador.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\obj\Debug\Enumerador.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\obj\Debug\Enumerador.exe
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\obj\Debug\Enumerador.pdb
+C:\Users\Eduardo\source\repos\Enumerador\Enumerador\obj\Debug\Enumerador.csprojAssemblyReference.cache

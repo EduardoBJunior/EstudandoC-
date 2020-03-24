@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\herança\herança\bin\Debug\herança.exe.config
+C:\Users\Eduardo\source\repos\herança\herança\bin\Debug\herança.exe
+C:\Users\Eduardo\source\repos\herança\herança\bin\Debug\herança.pdb
+C:\Users\Eduardo\source\repos\herança\herança\obj\Debug\Heranca.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\herança\herança\obj\Debug\herança.Form1.resources
+C:\Users\Eduardo\source\repos\herança\herança\obj\Debug\herança.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\herança\herança\obj\Debug\Heranca.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\herança\herança\obj\Debug\herança.exe
+C:\Users\Eduardo\source\repos\herança\herança\obj\Debug\herança.pdb

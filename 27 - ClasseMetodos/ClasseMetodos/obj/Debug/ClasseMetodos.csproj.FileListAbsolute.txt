@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\obj\Debug\ClasseMetodos.Form1.resources
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\obj\Debug\ClasseMetodos.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\obj\Debug\ClasseMetodos.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\bin\Debug\ClasseMetodos.exe.config
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\bin\Debug\ClasseMetodos.exe
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\bin\Debug\ClasseMetodos.pdb
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\obj\Debug\ClasseMetodos.exe
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\obj\Debug\ClasseMetodos.pdb
+C:\Users\Eduardo\source\repos\ClasseMetodos\ClasseMetodos\obj\Debug\ClasseMetodos.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\bin\Debug\Datahora.exe.config
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\bin\Debug\Datahora.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\bin\Debug\Datahora.pdb
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.Form1.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.Properties.Resources.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.pdb

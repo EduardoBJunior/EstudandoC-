@@ -1,0 +1,8 @@
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\bin\Debug\Ciclos.exe.config
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\bin\Debug\Ciclos.exe
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\bin\Debug\Ciclos.pdb
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\obj\Debug\Ciclos.Form1.resources
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\obj\Debug\Ciclos.Properties.Resources.resources
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\obj\Debug\Ciclos.exe
+G:\Programação\João Ribeiro\Aula 20\Ciclos\Ciclos\obj\Debug\Ciclos.pdb

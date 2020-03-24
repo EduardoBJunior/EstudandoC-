@@ -1,0 +1,12 @@
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadCliente.resources
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadLivro.resources
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Principal.resources
+G:\Programação\João Ribeiro\Aula 5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadFuncionario.resources

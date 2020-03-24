@@ -1,0 +1,10 @@
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.frmMain.resources
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.frmUm.resources
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.Properties.Resources.resources
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\bin\Debug\mdiProject.exe.config
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\bin\Debug\mdiProject.exe
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\bin\Debug\mdiProject.pdb
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.exe
+G:\Programação\João Ribeiro\49 - Formularios MDIConteiner e MDIChild\mdiProject\mdiProject\obj\Debug\mdiProject.pdb

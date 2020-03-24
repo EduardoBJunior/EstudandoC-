@@ -1,0 +1,9 @@
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.exe.config
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.pdb
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.Form1.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.Properties.Resources.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\CaixaDialogo\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.pdb

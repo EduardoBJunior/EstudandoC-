@@ -1,0 +1,9 @@
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Eventos\Eventos\Eventos\obj\Debug\Eventos.pdb

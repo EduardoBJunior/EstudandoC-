@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.exe.config
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.exe
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.pdb
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.Form1.resources
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.exe
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.pdb
+C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csprojAssemblyReference.cache

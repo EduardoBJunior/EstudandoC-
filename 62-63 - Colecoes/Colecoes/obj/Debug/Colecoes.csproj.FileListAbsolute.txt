@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.pdb

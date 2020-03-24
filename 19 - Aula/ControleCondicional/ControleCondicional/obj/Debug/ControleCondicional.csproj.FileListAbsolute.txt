@@ -1,0 +1,9 @@
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\bin\Debug\ControleCondicional.exe.config
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\bin\Debug\ControleCondicional.exe
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\bin\Debug\ControleCondicional.pdb
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\obj\Debug\ControleCondicional.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\obj\Debug\ControleCondicional.Form1.resources
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\obj\Debug\ControleCondicional.Properties.Resources.resources
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\obj\Debug\ControleCondicional.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\obj\Debug\ControleCondicional.exe
+G:\Programação\João Ribeiro\Aula 19\ControleCondicional\ControleCondicional\obj\Debug\ControleCondicional.pdb

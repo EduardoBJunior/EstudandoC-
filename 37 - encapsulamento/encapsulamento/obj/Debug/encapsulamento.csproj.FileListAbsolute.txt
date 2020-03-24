@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\bin\Debug\encapsulamento.exe.config
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\bin\Debug\encapsulamento.exe
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\bin\Debug\encapsulamento.pdb
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\obj\Debug\encapsulamento.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\obj\Debug\encapsulamento.Form1.resources
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\obj\Debug\encapsulamento.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\obj\Debug\encapsulamento.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\obj\Debug\encapsulamento.exe
+C:\Users\Eduardo\source\repos\encapsulamento\encapsulamento\obj\Debug\encapsulamento.pdb

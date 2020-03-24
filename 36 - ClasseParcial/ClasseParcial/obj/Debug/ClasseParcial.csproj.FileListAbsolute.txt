@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\bin\Debug\ClasseParcial.exe.config
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\bin\Debug\ClasseParcial.exe
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\bin\Debug\ClasseParcial.pdb
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\obj\Debug\ClasseParcial.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\obj\Debug\ClasseParcial.Form1.resources
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\obj\Debug\ClasseParcial.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\obj\Debug\ClasseParcial.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\obj\Debug\ClasseParcial.exe
+C:\Users\Eduardo\source\repos\ClasseParcial\ClasseParcial\obj\Debug\ClasseParcial.pdb

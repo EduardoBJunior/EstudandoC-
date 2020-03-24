@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\bin\Debug\ClasseEstatica.exe.config
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\bin\Debug\ClasseEstatica.exe
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\bin\Debug\ClasseEstatica.pdb
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.Form1.resources
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.exe
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.pdb
+C:\Users\Eduardo\source\repos\ClasseEstatica\ClasseEstatica\obj\Debug\ClasseEstatica.csprojAssemblyReference.cache

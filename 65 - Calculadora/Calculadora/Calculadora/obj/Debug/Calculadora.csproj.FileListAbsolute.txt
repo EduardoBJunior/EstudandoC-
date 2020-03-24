@@ -1,0 +1,9 @@
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

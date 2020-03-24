@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\bin\Debug\ClassesParametros.exe.config
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\bin\Debug\ClassesParametros.exe
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\bin\Debug\ClassesParametros.pdb
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.Form1.resources
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.exe
+C:\Users\Eduardo\source\repos\ClassesParametros\ClassesParametros\obj\Debug\ClassesParametros.pdb

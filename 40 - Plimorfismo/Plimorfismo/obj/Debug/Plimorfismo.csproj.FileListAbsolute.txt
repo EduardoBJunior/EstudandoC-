@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\bin\Debug\Plimorfismo.exe.config
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\bin\Debug\Plimorfismo.exe
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\bin\Debug\Plimorfismo.pdb
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\obj\Debug\Plimorfismo.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\obj\Debug\Plimorfismo.Form1.resources
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\obj\Debug\Plimorfismo.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\obj\Debug\Plimorfismo.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\obj\Debug\Plimorfismo.exe
+C:\Users\Eduardo\source\repos\Plimorfismo\Plimorfismo\obj\Debug\Plimorfismo.pdb

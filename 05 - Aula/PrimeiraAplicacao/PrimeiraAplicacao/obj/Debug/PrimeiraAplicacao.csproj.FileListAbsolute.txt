@@ -1,0 +1,9 @@
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe.config
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.pdb
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Form1.resources
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Properties.Resources.resources
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.exe
+G:\Programação\João Ribeiro\Aula 5\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.pdb

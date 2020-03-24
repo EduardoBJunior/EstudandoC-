@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\bin\Debug\CamposProrpiedades.exe.config
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\bin\Debug\CamposProrpiedades.exe
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\bin\Debug\CamposProrpiedades.pdb
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\obj\Debug\CamposProrpiedades.Form1.resources
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\obj\Debug\CamposProrpiedades.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\obj\Debug\CamposProrpiedades.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\obj\Debug\CamposProrpiedades.exe
+C:\Users\Eduardo\source\repos\CamposProrpiedades\CamposProrpiedades\obj\Debug\CamposProrpiedades.pdb

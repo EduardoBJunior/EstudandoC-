@@ -1,0 +1,18 @@
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\bin\Debug\OOPComStrings.exe.config
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\bin\Debug\OOPComStrings.exe
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\bin\Debug\OOPComStrings.pdb
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.Form1.resources
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.Properties.Resources.resources
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.exe
+C:\Users\MetaTreinamento\source\repos\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.pdb
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.Form1.resources
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.Properties.Resources.resources
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.exe
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\obj\Debug\OOPComStrings.pdb
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\bin\Debug\OOPComStrings.exe.config
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\bin\Debug\OOPComStrings.exe
+G:\Programação\João Ribeiro\Aula 23\OOPComStrings\OOPComStrings\bin\Debug\OOPComStrings.pdb

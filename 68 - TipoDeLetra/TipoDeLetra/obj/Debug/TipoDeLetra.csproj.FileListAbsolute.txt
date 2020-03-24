@@ -1,0 +1,9 @@
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\bin\Debug\TipoDeLetra.exe.config
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\bin\Debug\TipoDeLetra.exe
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\bin\Debug\TipoDeLetra.pdb
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.Form1.resources
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.Properties.Resources.resources
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.exe
+C:\Users\MetaTreinamento\source\repos\TipoDeLetra\TipoDeLetra\obj\Debug\TipoDeLetra.pdb

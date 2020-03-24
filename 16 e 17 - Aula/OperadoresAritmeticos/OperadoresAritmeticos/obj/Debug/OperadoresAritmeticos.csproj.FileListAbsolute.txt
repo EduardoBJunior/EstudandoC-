@@ -1,0 +1,8 @@
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.Form1.resources
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.Properties.Resources.resources
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+G:\Programação\João Ribeiro\Aula 16\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb
