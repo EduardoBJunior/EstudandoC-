@@ -1,0 +1,5 @@
+G:\Programação\João Ribeiro\EstudandoCsharp\57 - PastasEficheirosParte3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopiarEmoverFicheiros.Form1.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\57 - PastasEficheirosParte3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopiarEmoverFicheiros.Properties.Resources.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\57 - PastasEficheirosParte3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopiarEmoverFicheiros.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\57 - PastasEficheirosParte3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopiarEmoverFicheiros.csproj.CoreCompileInputs.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\57 - PastasEficheirosParte3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

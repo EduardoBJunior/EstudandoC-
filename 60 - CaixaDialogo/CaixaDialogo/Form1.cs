@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace CaixaDialogo
 {
@@ -25,8 +26,11 @@ namespace CaixaDialogo
             //                 "Aviso",
             //                 MessageBoxButtons.OK,
             //                 MessageBoxIcon.Information);
-            if (MessageBox.Show("Deseja sair da Aplicacao", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No) return;
 
+            //caixa de Dialogo com Resultado
+            if (MessageBox.Show("Deseja sair da Aplicacao", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No) return;
+            
+            //fecha a aplicação
             Application.Exit();
             
         }
@@ -37,6 +41,8 @@ namespace CaixaDialogo
             telacaixa.Title = "Escolher ficheiro";
             telacaixa.InitialDirectory = @"C:\";
             telacaixa.Filter = "JPRG Images(*.jpg)|*.jpg| BMP Files(*.bmp)|*.bmp";
+            telacaixa.Filter = "JPRG Images(*.jpg)|*.jpg| BMP Files(*.bmp)|*.bmp";
+            
 
             if (telacaixa.ShowDialog() == DialogResult.Cancel ) return;
 
@@ -45,6 +51,42 @@ namespace CaixaDialogo
             telacaixa.Dispose();
             
             
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog caixa = new SaveFileDialog();
+            caixa.Title = "Gravar Ficheiro";
+            caixa.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            caixa.Filter = "TXT files (*.txt)|*.txt";
+            if (caixa.ShowDialog() == DialogResult.Cancel) return;
+
+            //grava o ficheiro
+            string ficheiro = caixa.FileName;
+
+            StreamWriter file = new StreamWriter(ficheiro, false, Encoding.Default);
+            file.WriteLine("TEXT");
+            file.Dispose();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FolderBrowserDialog caixa = new FolderBrowserDialog();
+            caixa.SelectedPath = @"C:\";
+            if (caixa.ShowDialog() == DialogResult.Cancel) return;
+
+            ////retorna a pasta escolhida
+            MessageBox.Show("A pasta excluida foi "+ caixa.SelectedPath);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ColorDialog caixa = new ColorDialog();
+            caixa.Color = pictureBox1.BackColor;
+
+            if (caixa.ShowDialog() == DialogResult.Cancel) return;
+
+            pictureBox1.BackColor = caixa.Color;
         }
     }
 }

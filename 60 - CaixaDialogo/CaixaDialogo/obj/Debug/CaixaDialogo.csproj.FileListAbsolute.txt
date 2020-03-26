@@ -7,3 +7,13 @@ C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.c
 C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.exe
 C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.pdb
 C:\Users\Eduardo\source\repos\CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.exe.config
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\bin\Debug\CaixaDialogo.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.Form1.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.Properties.Resources.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.csproj.CoreCompileInputs.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\60 - CaixaDialogo\CaixaDialogo\obj\Debug\CaixaDialogo.pdb

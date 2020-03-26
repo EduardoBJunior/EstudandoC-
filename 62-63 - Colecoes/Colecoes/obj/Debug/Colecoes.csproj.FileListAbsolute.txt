@@ -7,3 +7,13 @@ C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Re
 C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
 C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.exe
 C:\Users\Eduardo\source\repos\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\bin\Debug\Colecoes.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\62-63 - Colecoes\Colecoes\obj\Debug\Colecoes.pdb

@@ -7,3 +7,12 @@ C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\D
 C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.csproj.GenerateResource.cache
 C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.exe
 C:\Users\MetaTreinamento\Desktop\Desktop\Estudo\DateHora\Datahora\Datahora\obj\Debug\Datahora.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\bin\Debug\Datahora.exe.config
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\bin\Debug\Datahora.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\bin\Debug\Datahora.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\obj\Debug\Datahora.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\obj\Debug\Datahora.Form1.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\obj\Debug\Datahora.Properties.Resources.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\obj\Debug\Datahora.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\obj\Debug\Datahora.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\50 - DaHora\Datahora\obj\Debug\Datahora.pdb

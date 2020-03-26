@@ -1,0 +1,18 @@
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.exe.config
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.exe
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.pdb
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.Form1.resources
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.exe
+C:\Users\Eduardo\source\repos\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.exe.config
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csprojAssemblyReference.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.Form1.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.Properties.Resources.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\52 - CriacaoLeituraFicheiros\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.pdb

@@ -1,0 +1,9 @@
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\bin\Debug\pastasFicheiros.exe.config
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\bin\Debug\pastasFicheiros.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\bin\Debug\pastasFicheiros.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\obj\Debug\pastasFicheiros.Form1.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\obj\Debug\pastasFicheiros.Properties.Resources.resources
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\obj\Debug\pastasFicheiros.csproj.GenerateResource.cache
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\obj\Debug\pastasFicheiros.exe
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\obj\Debug\pastasFicheiros.pdb
+G:\Programação\João Ribeiro\EstudandoCsharp\55 -Pastas e Ficheiros\pastasFicheiros\pastasFicheiros\obj\Debug\pastasFicheiros.csprojAssemblyReference.cache
