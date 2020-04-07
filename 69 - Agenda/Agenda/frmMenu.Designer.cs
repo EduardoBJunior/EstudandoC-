@@ -42,6 +42,7 @@
             this.bnt_inserir_editar.TabIndex = 0;
             this.bnt_inserir_editar.Text = "Inserir/Editar";
             this.bnt_inserir_editar.UseVisualStyleBackColor = true;
+            this.bnt_inserir_editar.Click += new System.EventHandler(this.bnt_inserir_editar_Click);
             // 
             // bnt_pesquisar
             // 
@@ -51,6 +52,7 @@
             this.bnt_pesquisar.TabIndex = 1;
             this.bnt_pesquisar.Text = "Pesquisar";
             this.bnt_pesquisar.UseVisualStyleBackColor = true;
+            this.bnt_pesquisar.Click += new System.EventHandler(this.bnt_pesquisar_Click);
             // 
             // label1
             // 
@@ -70,6 +72,7 @@
             this.btn_sair.TabIndex = 3;
             this.btn_sair.Text = "Sair";
             this.btn_sair.UseVisualStyleBackColor = true;
+            this.btn_sair.Click += new System.EventHandler(this.btn_sair_Click_1);
             // 
             // frmMenu
             // 

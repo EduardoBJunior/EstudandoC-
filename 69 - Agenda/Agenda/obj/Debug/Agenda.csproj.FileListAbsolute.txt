@@ -7,3 +7,15 @@ C:\Users\MetaTreinamento\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.
 C:\Users\MetaTreinamento\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
 C:\Users\MetaTreinamento\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
 C:\Users\MetaTreinamento\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.frmMenu.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.frmInserirEditar.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.frmTextoPesquisa.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\69 - Agenda\Agenda\obj\Debug\Agenda.frmResultados.resources
