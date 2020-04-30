@@ -1,0 +1,66 @@
+
+--update clientes set nome = 'Carlos' where nome = 'carlos' 
+--update clientes set nome = 'Carlos Ribeiro',telefone = 000000 where id_cliente = 1
+
+--delete from clientes where id_cliente= 2 
+/*
+Inner join - juntar tabela da esquerda com a da direita
+Left Join  juntar os dados da tabela da esquedar , relacinados a tabela da direita
+*/
+-- Inner apresenta os dados existentes de uma tabale e outras, quando não ha registro em uma tabela não é apresentado
+SELECT * FROM clientes INNER JOIN compras ON clientes.id_cliente = compras.id_cliente 
+
+
+--SELECT * FROM clientes INNER JOIN compras on clientes.id_cliente = compras.id_cliente where compras.id_cliente = 2
+
+-- lEFT APRESENTA TODOS MESMO SE NÃO TEM DADOS
+SELECT * FROM clientes LEFT JOIN compras ON  clientes.id_cliente = compras.id_cliente
+
+SELECT * FROM clientes RIGHT JOIN compras ON  clientes.id_cliente = compras.id_cliente
+
+--Funções  no SQL
+
+--select * from compras
+--update compras set quantidade = 5 where id_compra = 4
+
+--Media
+select avg(quantidade) as Media_Quantidade from compras where id_compra between 3 and 4
+--Coutn
+select count(id_cliente) as Quantidade_de_Produtos from compras 
+-- sum
+select sum(quantidade) as [Quantidade vendida] from compras
+-- min
+select min(quantidade*preco_unidade) as minimo from compras
+-- max
+select max(quantidade * preco_unidade) as [maximo] from compras
+
+-- Criar Tabela 
+/*
+- id_encomenda(Primary Key - PK) -int
+- id_cliente (Foregin Key - FK) - int
+- produto - string
+- quantidade - int
+- data_encomenda - data
+- executado bool
+*/
+
+CREATE TABLE encomendas(
+	id_encomenda 	int not null primary key,
+	id_cliente		int not null,
+	produto			nvarchar(50),
+	data_encomenda	datetime,
+	executado		bit,
+	FOREIGN KEY(id_cliente)  REFERENCES clientes(id_cliente) ON DELETE CASCADE
+)	
+-- Adiciona uma coluna a tabela  no final 
+ALTER TABLE encomendas 
+ADD quantidade int
+
+INSERT INTO encomendas VALUES (0,0,'Flores','20160321 20:00', 0,10)
+INSERT INTO encomendas VALUES (1,0,'Ananás','20160321 20:00', 0,20)
+
+SELECT * FROM encomendas
+
+SELECT * FROM clientes 
+LEFT JOIN  encomendas on clientes.id_cliente =encomendas.id_cliente
+WHERE clientes.id_cliente = 0

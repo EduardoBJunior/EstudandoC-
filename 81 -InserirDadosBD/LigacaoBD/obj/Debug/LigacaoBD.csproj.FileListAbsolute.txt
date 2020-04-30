@@ -1,0 +1,48 @@
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\78 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\79 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\bin\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\80 - LigacaoBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\bin\Debug\LigacaoBD.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\bin\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\bin\Debug\LigacaoBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\81 -InserirDadosBD\LigacaoBD\obj\Debug\LigacaoBD.pdb
