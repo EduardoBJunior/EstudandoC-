@@ -25,10 +25,17 @@ namespace AgendaSQL
                 Directory.CreateDirectory(pasta_dados);
             }
             //verifica se a base de dados existe
-            base_dados = pasta_dados + "dados.sdf";
-            if (!File.Exists(base_dados))
+            base_dados = pasta_dados + "dados.sdf; Password ='123456'";
+            if (!File.Exists(pasta_dados + "dados.sdf"))
                 CriarBaseDados();
+
+
+
+
+
+
         }
+
         //==========================================================================
         public static void CriarBaseDados()
         {

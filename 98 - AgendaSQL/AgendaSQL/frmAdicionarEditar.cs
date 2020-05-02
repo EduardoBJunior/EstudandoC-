@@ -41,7 +41,7 @@ namespace AgendaSQL
             SqlCeConnection ligacao = new SqlCeConnection("Data Source ="+vars.base_dados);
             ligacao.Open();
             DataTable dados = new DataTable();
-            SqlCeDataAdapter adaptador = new SqlCeDataAdapter("SELECT * FROM contatos where id_contato = "+ id_contato, ligacao);
+            SqlCeDataAdapter adaptador = new SqlCeDataAdapter("SELECT * FROM contatos WHERE id_contato = "+ id_contato, ligacao);
 
             adaptador.Fill(dados);
             ligacao.Dispose();
@@ -179,10 +179,11 @@ namespace AgendaSQL
                 SqlCeDataAdapter adaptador = new SqlCeDataAdapter();
                 adaptador.SelectCommand = comando;
                 adaptador.Fill(dados);
-                if (dados.Rows.Count !=0)
+                
+                if (dados.Rows.Count!=0)
                 {
                     // foi enconrtado um registro com este nome e e nmero 
-                    if (MessageBox.Show("Já existe um contato registrado, eseja alterar?", "Atenção",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.No)
+                    if (MessageBox.Show("Já existe um contato registrado, deseja realmente Gravar ?", "Atenção",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.No)
                     {
                         return;
                     }
@@ -194,6 +195,18 @@ namespace AgendaSQL
                     //fecha o quadro
                     this.Close();
 
+                }
+                else
+                {
+                    if (MessageBox.Show("Realmente deseja atualizar o Nome do Contato para "+txtb_nome.Text+"?", "Atenção",MessageBoxButtons.YesNo,MessageBoxIcon.Information) ==DialogResult.No)
+                    {
+                        return;
+                    }
+                    comando.CommandText = "UPDATE contatos SET nome =@nome, atualizacao =@atualizacao,telefone=@telefone WHERE id_contato =@id_contato";
+
+                    comando.ExecuteNonQuery();
+
+                    this.Close();
                 }
             }
             #endregion
