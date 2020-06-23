@@ -1,0 +1,11 @@
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\bin\Debug\SQL1.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\bin\Debug\SQL1.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\bin\Debug\SQL1.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\bin\Debug\System.Net.Http.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\112-SqlLite\SQL1\SQL1\obj\Debug\SQL1.pdb

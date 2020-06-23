@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperienciaSQL", "ExperienciaSQL\ExperienciaSQL.csproj", "{E0800F5B-2E26-4BCC-AF1E-011A5ECA0038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0800F5B-2E26-4BCC-AF1E-011A5ECA0038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0800F5B-2E26-4BCC-AF1E-011A5ECA0038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0800F5B-2E26-4BCC-AF1E-011A5ECA0038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0800F5B-2E26-4BCC-AF1E-011A5ECA0038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D215B5-A363-4F74-8C83-FFB79CAE47D0}
+	EndGlobalSection
+EndGlobal

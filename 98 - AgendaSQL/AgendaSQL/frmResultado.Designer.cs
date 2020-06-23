@@ -110,11 +110,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(511, 334);
             this.ControlBox = false;
+            this.Controls.Add(this.dgv_resultado);
             this.Controls.Add(this.btn_verRegistros);
             this.Controls.Add(this.btn_editar);
             this.Controls.Add(this.btn_apagar);
             this.Controls.Add(this.lb_resultados);
-            this.Controls.Add(this.dgv_resultado);
             this.Controls.Add(this.btn_fechar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));

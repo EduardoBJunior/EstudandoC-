@@ -114,7 +114,7 @@ namespace AgendaSQL
         //====================================================================================
         private void dgv_resultado_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            
         }
         //====================================================================================
         private void btn_verRegistros_Click(object sender, EventArgs e)
@@ -138,7 +138,7 @@ namespace AgendaSQL
             //dgv_resultado.Columns["nome"].Width = dgvWidth - (int)colnome;
             //dgv_resultado.Columns["telefone"].Width = dgvWidth - (int)coltelefone;
 
-            int largura_grid = dgv_resultado.Width - 20;
+            int largura_grid = dgv_resultado.Width - 20;//os 20 pixeis são referente a scroolbar 
             int resultado = (largura_grid * percentagem) / 100;
             return resultado;
         }

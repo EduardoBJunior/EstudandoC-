@@ -1,0 +1,9 @@
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\bin\Debug\SQLServer.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\bin\Debug\SQLServer.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\bin\Debug\SQLServer.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\obj\Debug\SQLServer.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\obj\Debug\SQLServer.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\obj\Debug\SQLServer.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\obj\Debug\SQLServer.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\obj\Debug\SQLServer.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\115-SQLServer\SQLServer\SQLServer\obj\Debug\SQLServer.pdb

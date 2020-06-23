@@ -1,0 +1,11 @@
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\bin\Debug\GestorBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\116-ClasseGestoraBaseDados\GestorBD\GestorBD\obj\Debug\GestorBD.pdb

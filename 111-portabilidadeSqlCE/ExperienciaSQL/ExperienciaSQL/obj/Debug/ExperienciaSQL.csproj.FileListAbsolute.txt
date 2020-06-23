@@ -1,0 +1,12 @@
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\bin\Debug\ExperienciaSQL.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\bin\Debug\ExperienciaSQL.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\bin\Debug\ExperienciaSQL.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.csproj.CopyComplete
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\111-portabilidadeSqlCE\ExperienciaSQL\ExperienciaSQL\obj\Debug\ExperienciaSQL.pdb
