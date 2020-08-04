@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaOnline", "OficinaOnline\OficinaOnline.csproj", "{8247D4C5-701F-43BC-9407-CC913B7DFAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8247D4C5-701F-43BC-9407-CC913B7DFAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8247D4C5-701F-43BC-9407-CC913B7DFAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8247D4C5-701F-43BC-9407-CC913B7DFAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8247D4C5-701F-43BC-9407-CC913B7DFAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87475D61-B762-4B33-94A2-22679B3499F7}
+	EndGlobalSection
+EndGlobal

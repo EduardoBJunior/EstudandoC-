@@ -30,3 +30,14 @@ G:\Programação\João Ribeiro\44 - Formularios\Formularios\obj\Debug\Formulario
 G:\Programação\João Ribeiro\44 - Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
 G:\Programação\João Ribeiro\44 - Formularios\Formularios\obj\Debug\Formularios.exe
 G:\Programação\João Ribeiro\44 - Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.frmDois.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.frmUm.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\MetaTreinamento\Documents\MEGA\Eduardo\Estudo\João Ribeiro\EstudandoCsharp\44 - Formularios\Formularios\obj\Debug\Formularios.pdb
