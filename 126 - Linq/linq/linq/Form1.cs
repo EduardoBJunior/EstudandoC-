@@ -45,7 +45,8 @@ namespace linq
             //utilizar LINQ
 
             //Exemplo usando  link para selecionar na lista apenas os registros com C
-            //var lista_final = lista_nomes.Where(i => i.StartsWith("C"));
+
+            //var lista_final = lista_nomes.Where(i => i.StartsWith("C")); 
 
             // foreach (string item in lista_nomes)
             // {
@@ -55,9 +56,25 @@ namespace linq
 
             //var final = lista_nomes.Where(i => i.StartsWith("A"));
 
-            //var final = from i in lista_nomes where i.StartsWith("A") select i;
+            //este comando é mais coleta a mesma informação do  foeach porem sem ter que passar item a item de uma lisar 
+            //var final = from i in lista_nomes where i.StartsWith("A") select i; 
 
-            List<string> final = (from i in lista_nomes where i.StartsWith("A") select i).ToList<string>();
+            foreach (string i in lista_nomes)
+            {
+                if (i.StartsWith("A"))
+                {
+                    listBox1.Items.Add(i);
+                }
+            }
+
+            listBox1.Items.Add(lista_nomes[0]); // pega o primeiro item da lista 
+            listBox1.Items.Add(lista_nomes.First()); // pega o primeiro item da lista 
+
+            //listBox1.Items.Add(final[0]); //  não pode ser usado assim devido a a criação da variavel ser generica
+            //listBox1.Items.Add(final.First()); // desta forma ele permite  utilizando operaçao first disponivel do linq
+
+
+            List<string> final = (from i in lista_nomes where i.StartsWith("A") select i).ToList<string>();// aqui estou confertendo em a query em uma lista de string feito isso é possivel utilizar a posição da lsita 
 
             listBox1.Items.Add(final[0]);
 
